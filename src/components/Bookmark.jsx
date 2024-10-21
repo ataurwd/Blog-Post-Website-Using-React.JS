@@ -1,7 +1,7 @@
 
 const Bookmark = () => {
     return (
-        <div className="md:w-1/3">
+        <div className="md:w-1/3 bg-gray-300 ml-5 p-3">
             <h1>sidebar</h1>
         </div>
     );
