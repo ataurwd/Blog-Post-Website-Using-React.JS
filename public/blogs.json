@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://picsum.photos/800/400?random=1",
+      "title": "Exploring the Wonders of Nature",
+      "author": "John Doe",
+      "author_img": "https://picsum.photos/100/100?random=1",
+      "post_data": "Nature has a way of captivating our hearts and minds. From the tallest mountains to the deepest oceans, there is so much to explore.",
+      "reading_time": "5 min",
+      "hashtags": ["#Nature", "#Adventure", "#Travel"]
+    },
+    {
+      "id": 2,
+      "cover": "https://picsum.photos/800/400?random=2",
+      "title": "The Art of Cooking: A Beginner's Guide",
+      "author": "Jane Smith",
+      "author_img": "https://picsum.photos/100/100?random=2",
+      "post_data": "Cooking can be both an art and a science. This guide will introduce you to the basics of preparing delicious meals.",
+      "reading_time": "8 min",
+      "hashtags": ["#Cooking", "#Foodie", "#Recipes"]
+    },
+    {
+      "id": 3,
+      "cover": "https://picsum.photos/800/400?random=3",
+      "title": "Tech Trends to Watch in 2024",
+      "author": "Alice Johnson",
+      "author_img": "https://picsum.photos/100/100?random=3",
+      "post_data": "As technology continues to evolve, here are the key trends that will shape our future and impact various industries.",
+      "reading_time": "10 min",
+      "hashtags": ["#Tech", "#Innovation", "#Future"]
+    },
+    {
+      "id": 4,
+      "cover": "https://picsum.photos/800/400?random=4",
+      "title": "Mindfulness and Mental Health",
+      "author": "Michael Brown",
+      "author_img": "https://picsum.photos/100/100?random=4",
+      "post_data": "Practicing mindfulness can significantly improve your mental health. Discover techniques to incorporate mindfulness into your daily routine.",
+      "reading_time": "6 min",
+      "hashtags": ["#Mindfulness", "#MentalHealth", "#Wellness"]
+    },
+    {
+      "id": 5,
+      "cover": "https://picsum.photos/800/400?random=5",
+      "title": "A Journey Through the Stars",
+      "author": "Emily White",
+      "author_img": "https://picsum.photos/100/100?random=5",
+      "post_data": "Space has always fascinated humanity. Join me on a journey through the stars as we explore the wonders of the universe.",
+      "reading_time": "7 min",
+      "hashtags": ["#Space", "#Astronomy", "#Science"]
+    }
+  ]
+  
